@@ -1,4 +1,4 @@
-package pokedraftbuilder.pokemondraftpackbuilder;
+package pokedraftbuilder.pokemondraftpackbuilder.View;
 
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -17,6 +17,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import android.widget.TextView;
+
+import pokedraftbuilder.pokemondraftpackbuilder.R;
 
 public class DraftActivity extends AppCompatActivity {
 
